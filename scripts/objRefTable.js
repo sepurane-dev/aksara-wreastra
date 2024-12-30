@@ -56,6 +56,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.TextBox.Acts.SetEnabled,
 		C3.Plugins.TextBox.Acts.SetVisible,
 		C3.Plugins.Browser.Acts.Close,
+		C3.Plugins.Browser.Acts.ExecJs,
 		C3.Plugins.Audio.Acts.PlayByName,
 		C3.Plugins.Audio.Acts.Stop,
 		C3.Plugins.DrawingCanvas.Acts.ClearCanvas,
