@@ -1,0 +1,654 @@
+{
+    "c2array": true,
+    "size": [
+        7,
+        30,
+        1
+    ],
+    "data": [
+        [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ],
+            [
+                8
+            ],
+            [
+                9
+            ],
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                12
+            ],
+            [
+                13
+            ],
+            [
+                14
+            ],
+            [
+                15
+            ],
+            [
+                16
+            ],
+            [
+                17
+            ],
+            [
+                18
+            ],
+            [
+                19
+            ],
+            [
+                20
+            ],
+            [
+                21
+            ],
+            [
+                22
+            ],
+            [
+                23
+            ],
+            [
+                24
+            ],
+            [
+                25
+            ],
+            [
+                26
+            ],
+            [
+                27
+            ],
+            [
+                28
+            ],
+            [
+                29
+            ],
+            [
+                30
+            ]
+        ],
+        [
+            [
+                "Gempelan aksara \"ba\" miwah \"la\" dados...?"
+            ],
+            [
+                "Pengangge suara sané nunjukaken paukosa punika...?"
+            ],
+            [
+                "Angka \"25\" ring aksara Bali punika...?"
+            ],
+            [
+                "Aksara \"pa\" yéning kaungkupang antuk aksara \"da\" dados...?"
+            ],
+            [
+                "Aksara Bali sané nglambangaken swara \"u\" punika...?"
+            ],
+            [
+                "Gantungan aksara \"ka\" masuara...?"
+            ],
+            [
+                "Angka \"100\" ring aksara Bali punika...?"
+            ],
+            [
+                "Aksara \"ya\" yéning kaungkupang antuk aksara \"ta\" dados...?"
+            ],
+            [
+                "Aksara Bali sané nglambangaken swara \"e\" punika...?"
+            ],
+            [
+                "Pengangge suara “a” ring aksara Bali punika kasurat ..."
+            ],
+            [
+                "Angka \"50\" ring aksara Bali punika...?"
+            ],
+            [
+                "Aksara \"ra\" yéning kaungkupang antuk aksara \"ba\" dados...?"
+            ],
+            [
+                "Aksara Bali sané nglambangaken swara \"o\" punika...?"
+            ],
+            [
+                "Gantungan aksara \"ba\" masuara...?"
+            ],
+            [
+                "Angka \"150\" ring aksara Bali punika...?"
+            ],
+            [
+                "Aksara \"la\" yéning kaungkupang antuk aksara \"ga\" dados...?"
+            ],
+            [
+                "Angka “125” ring aksara Bali katulis...?"
+            ],
+            [
+                "Pamargin gempelan ring aksara Bali punika..."
+            ],
+            [
+                "Angka “12” ring aksara Bali katulis...?"
+            ],
+            [
+                "Conto ukara ring aksara Bali sane nganggé gempelan wantah..."
+            ],
+            [
+                "Punapi kawihan saking tembung “gantungan” ring basa Indonesia?"
+            ],
+            [
+                "Aksara Latin “Bunga” yéning kaanggé aksara Bali dados..."
+            ],
+            [
+                "Aksara Latin “Buku” yéning kaanggé aksara Bali dados..."
+            ],
+            [
+                "Angka “25” ring aksara Bali katulis...?"
+            ],
+            [
+                "Kruna \"warsa 2023\" yan katulis ring aksara Bali, angka \"2023\" katulis..."
+            ],
+            [
+                "Punapi aksara angka sane becik anggén nguningang angka Latin 7, 3, 5, 9, 1?"
+            ],
+            [
+                "Punapi tatacara nulis aksara Ha, Na, Ca, Ra, Ka, Da, Ta, Sa, Wa, La, Ma, Ga, Ba, Nga, Pa, Ja, Ya, Nya sane becik?"
+            ],
+            [
+                "Wentén makudang aksara sané mangkinang swara?"
+            ],
+            [
+                "Punapi tatacara nulis tembung \"Nangka\" nganggé aksara Wreastra sane becik?"
+            ],
+            [
+                "Punapi tatacara nulis tembung \"Sampi\" nganggé aksara Wreastra sane becik?"
+            ]
+        ],
+        [
+            [
+                "Bal"
+            ],
+            [
+                "Tanda tanya"
+            ],
+            [
+                "25."
+            ],
+            [
+                "Pa da"
+            ],
+            [
+                "¿ô°ô°° uô°"
+            ],
+            [
+                "ôô ° ôÐ°"
+            ],
+            [
+                "100."
+            ],
+            [
+                "Yata"
+            ],
+            [
+                "° ôôô° )"
+            ],
+            [
+                "Ring sisi kiwa aksara"
+            ],
+            [
+                "50."
+            ],
+            [
+                "Raba"
+            ],
+            [
+                "° eôôôo"
+            ],
+            [
+                "ôôô ã"
+            ],
+            [
+                "150."
+            ],
+            [
+                "Laga"
+            ],
+            [
+                "125."
+            ],
+            [
+                "Nyawikan kalih aksara"
+            ],
+            [
+                "12."
+            ],
+            [
+                "Ibu"
+            ],
+            [
+                "Penggantung"
+            ],
+            [
+                "°° bu £."
+            ],
+            [
+                "° bu ku."
+            ],
+            [
+                "25."
+            ],
+            [
+                "2023."
+            ],
+            [
+                "7,3,5,9,1."
+            ],
+            [
+                "h n c r k d t s w l m g b £ p j y Zÿ"
+            ],
+            [
+                "6 ."
+            ],
+            [
+                "n £Ð)."
+            ],
+            [
+                "s mæ."
+            ]
+        ],
+        [
+            [
+                "Bla"
+            ],
+            [
+                "Titik"
+            ],
+            [
+                "24."
+            ],
+            [
+                "Da"
+            ],
+            [
+                "¿eôôô"
+            ],
+            [
+                "° °° ôô Àô°"
+            ],
+            [
+                "200."
+            ],
+            [
+                "Ta"
+            ],
+            [
+                "° eôôô"
+            ],
+            [
+                "Ring ajeng aksara"
+            ],
+            [
+                "79."
+            ],
+            [
+                "Ba"
+            ],
+            [
+                "° ôôôÿ )"
+            ],
+            [
+                "¿ôô°° Âô"
+            ],
+            [
+                "151."
+            ],
+            [
+                "Ga"
+            ],
+            [
+                "121."
+            ],
+            [
+                "Ngaruruh swara aksara"
+            ],
+            [
+                "11."
+            ],
+            [
+                "Anak"
+            ],
+            [
+                "Penghubung"
+            ],
+            [
+                "° bu £i."
+            ],
+            [
+                "° bu gu."
+            ],
+            [
+                "15."
+            ],
+            [
+                "2013."
+            ],
+            [
+                "5,6,8,0,3."
+            ],
+            [
+                "h n c r k d t s w l m g ° £ b p ° j yZÿ"
+            ],
+            [
+                "3."
+            ],
+            [
+                "n £Ð."
+            ],
+            [
+                "s mæi."
+            ]
+        ],
+        [
+            [
+                "Ba la"
+            ],
+            [
+                "Koma"
+            ],
+            [
+                "32."
+            ],
+            [
+                "Pa"
+            ],
+            [
+                "°° ° °  ÿôô° )ô"
+            ],
+            [
+                "°°° ôô ° Âô°"
+            ],
+            [
+                "500."
+            ],
+            [
+                "Yat"
+            ],
+            [
+                "°  ô°ô°° iô°"
+            ],
+            [
+                "Ring sor aksara"
+            ],
+            [
+                "30."
+            ],
+            [
+                "RaBa"
+            ],
+            [
+                "° eôôô"
+            ],
+            [
+                "¿¿° ôôôß"
+            ],
+            [
+                "125."
+            ],
+            [
+                "La"
+            ],
+            [
+                "124."
+            ],
+            [
+                "Nentenga ukara"
+            ],
+            [
+                "10."
+            ],
+            [
+                "Rumah"
+            ],
+            [
+                "Pengganti"
+            ],
+            [
+                "°° bu n."
+            ],
+            [
+                "° bu ru."
+            ],
+            [
+                "22."
+            ],
+            [
+                "2034."
+            ],
+            [
+                "3,5,0,2,1."
+            ],
+            [
+                "h° n c r k t d s w l m g b £° p j y Zÿ"
+            ],
+            [
+                "5."
+            ],
+            [
+                "n £Ðk."
+            ],
+            [
+                "s pi."
+            ]
+        ],
+        [
+            [
+                "La ba"
+            ],
+            [
+                "Tanda seru"
+            ],
+            [
+                "21."
+            ],
+            [
+                "Da pa"
+            ],
+            [
+                "ôô° iô"
+            ],
+            [
+                "ôô° ôã"
+            ],
+            [
+                "400."
+            ],
+            [
+                "Ta ya "
+            ],
+            [
+                "¿¿ô°ô°° uô°"
+            ],
+            [
+                "Ring sisi tengen aksarad"
+            ],
+            [
+                "42."
+            ],
+            [
+                "Ba ra"
+            ],
+            [
+                "ÿôôô¿u"
+            ],
+            [
+                "ÿôôôÐ"
+            ],
+            [
+                "120."
+            ],
+            [
+                "Ga la"
+            ],
+            [
+                "126."
+            ],
+            [
+                "Nunjukaken tekenan swarae"
+            ],
+            [
+                "18."
+            ],
+            [
+                "Buku"
+            ],
+            [
+                "Pengubah"
+            ],
+            [
+                "° b £Ð° h."
+            ],
+            [
+                "° bu hu."
+            ],
+            [
+                "27."
+            ],
+            [
+                "2465."
+            ],
+            [
+                "3,6,5,3,4."
+            ],
+            [
+                "h c k n r d t s w l m g b £ p j y Zÿ"
+            ],
+            [
+                "2."
+            ],
+            [
+                "n £° k/."
+            ],
+            [
+                "s m p/."
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "2067."
+            ],
+            [
+                "7,5,9,0,1."
+            ],
+            [
+                "h p j y n r k d t s w l m g b £ p Zÿ"
+            ],
+            [
+                "9."
+            ],
+            [
+                "n Nÿ° k/."
+            ],
+            [
+                "s mæ° hø."
+            ]
+        ]
+    ]
+}
